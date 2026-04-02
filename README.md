@@ -9,7 +9,7 @@
     - Our LA (Leah) likes RPG games like Undertale; RPGs aren't my favorite genre but I definitely did enjoy Undertale.
 
 ### Activity 2
-[Breakdown](https://docs.google.com/drawings/d/1Ak2sczQbftTD-Leq8VDU1Mzc2Hn_uXFvcraLCR9kwpg/edit?usp=sharing)
+![breakdown](https://github.com/user-attachments/assets/b1162a65-d342-4f88-a098-837df44267b3)
 
 <hr>
 
