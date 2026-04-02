@@ -11,7 +11,6 @@
 ### Activity 2
 [Breakdown](https://docs.google.com/drawings/d/1Ak2sczQbftTD-Leq8VDU1Mzc2Hn_uXFvcraLCR9kwpg/edit?usp=sharing)
 
-## W2
-Write your W2 Devlog here.
+<hr>
 
-Continue adding additional headers below this one for future weeks and future activities.
+## W2
