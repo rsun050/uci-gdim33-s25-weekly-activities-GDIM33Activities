@@ -14,3 +14,13 @@
 <hr>
 
 ## W2
+Visual Scripting: 
+<img width="1462" height="1321" alt="image" src="https://github.com/user-attachments/assets/e02c3b9f-09e3-447a-89d9-36c71cee7d3e" /> <br>
+Grow every frame, on trigger touch (egg), play the confetti VFX <br>
+
+<img width="1369" height="1288" alt="image" src="https://github.com/user-attachments/assets/48444b73-0d90-468e-813c-e8c96f6f2e10" /> <br>
+Left/right arrow keys: movement
+
+<img width="2014" height="610" alt="image" src="https://github.com/user-attachments/assets/b3372bf0-48a1-4384-9a12-9d2c731970b5" /> <br>
+Press space: increment a counter; then Debug.Log {counter} numbers of the Fibonacci sequence.
+
