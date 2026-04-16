@@ -24,3 +24,15 @@ Left/right arrow keys: movement
 <img width="2014" height="610" alt="image" src="https://github.com/user-attachments/assets/b3372bf0-48a1-4384-9a12-9d2c731970b5" /> <br>
 Press space: increment a counter; then Debug.Log {counter} numbers of the Fibonacci sequence.
 
+<hr>
+
+## W3
+### Activity 1
+<img width="1771" height="859" alt="breakdown3" src="https://github.com/user-attachments/assets/afd025b3-3413-4475-a5b5-eb529cb472a1" />
+
+<!-- NOTE TO SELF: DO THE DEVLOG QUESTIONS -->
+### Activity 2
+1. It's convenient to save event names as Scene variables because then you don't have to type the name of the event every time another Graph wants to call the event, and if you change the event name, you don't have to change all the calls either.
+2. I actually noticed my Trigger Custom Event node wasn't working because I forgot to hook up the source GameObject to the node. I noticed this because the Debug.Log in my Transition node wasn't firing.
+3. I'm coding a 2D platformer with a mouse-controlled sticky hand attached to the player, so I think locking the cursor would actually be detrimental to the gameplay. I could hide the cursor if it was distracting, but locking it I think would just not work, as I need the sticky hand to constantly seek out and move towards the mouse position.
+4. I don't think my game has any 'game state'. I don't intend on putting any dialogue or other 'states' that would pause movement of certain GameObjects. I could put instructions in the background of the level, but it wouldn't have any effect like the dialogue state in this week's activity.
