@@ -44,5 +44,13 @@ Press space: increment a counter; then Debug.Log {counter} numbers of the Fibona
 Playtesting Plan<br>
 Goal: see if movement is smooth and if controls are intuitive
 
-Playtest team: Eli, Minjoo, Milla
+Playtest team: Eli, Minjoo, Milla<br>
 Notes: movement and collisions are smooth, good proof of concept, hoping for way to put down object soon
+
+### Activity 2
+1. Yes, a writer can add more dialogue w/out writing code because all they have to do is create new ScriptableObjects and hook the Dialogue Nodes up to each other in the Unity Editor, without ever having to look at the code.
+2. No limit, besides project size probably...
+3. Regenerate Nodes generates a file that stores information about how code (your own + Unity's) is displayed in the Visual Scripting interface.
+
+Bonus Point: I added a VFX that is played every time a button is clicked.
+<img width="1550" height="870" alt="bonuspoint" src="https://github.com/user-attachments/assets/f2b998e9-563e-4ff1-8dd0-acebf8836db6" />
