@@ -36,3 +36,13 @@ Press space: increment a counter; then Debug.Log {counter} numbers of the Fibona
 2. I actually noticed my Trigger Custom Event node wasn't working because I forgot to hook up the source GameObject to the node. I noticed this because the Debug.Log in my Transition node wasn't firing.
 3. I'm coding a 2D platformer with a mouse-controlled sticky hand attached to the player, so I think locking the cursor would actually be detrimental to the gameplay. I could hide the cursor if it was distracting, but locking it I think would just not work, as I need the sticky hand to constantly seek out and move towards the mouse position.
 4. I don't think my game has any 'game state'. I don't intend on putting any dialogue or other 'states' that would pause movement of certain GameObjects. I could put instructions in the background of the level, but it wouldn't have any effect like the dialogue state in this week's activity.
+
+<hr>
+
+## W4
+### Activity 1
+Playtesting Plan<br>
+Goal: see if movement is smooth and if controls are intuitive
+
+Playtest team: Eli, Minjoo, Milla
+Notes: movement and collisions are smooth, good proof of concept, hoping for way to put down object soon
