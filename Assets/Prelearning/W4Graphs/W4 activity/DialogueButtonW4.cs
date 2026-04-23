@@ -1,3 +1,4 @@
+using System;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -17,6 +18,12 @@ namespace W4Activity
             {
                 DialogueAdvancerW4._Instance.ChooseDialogue(reply.nextNode);
             });
+        }
+
+        public void OnClick()
+        {
+            GameObject vfx = GameObject.Find("VFX");
+            vfx.GetComponent<ParticleSystem>().Play();
         }
     }
 }

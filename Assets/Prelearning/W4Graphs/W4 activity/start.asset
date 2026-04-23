@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
+  m_Name: start
+  m_EditorClassIdentifier: 
+  Line: bombastic side eye
+  ReplyOptions:
+  - line: man shut yo
+    nextNode: {fileID: 11400000, guid: 6338a9dfb1b97984198f873ede090554, type: 2}
+  - line: '*copyright free music*'
+    nextNode: {fileID: 11400000, guid: 787ccadc3e0d35e40883c61b957f423f, type: 2}

@@ -3,8 +3,7 @@ using UnityEngine;
 using Unity.VisualScripting;
 
 [Serializable][Inspectable]
-public class PlayerReply
-{
+public class PlayerReply {
     //---------------------------------------------------------------------
     // Variables
     //---------------------------------------------------------------------
